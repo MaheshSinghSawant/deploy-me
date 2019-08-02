@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/deply-me/static/css/main.2cce8147.chunk.css",
-    "main.js": "/deply-me/static/js/main.e8cbbdea.chunk.js",
-    "main.js.map": "/deply-me/static/js/main.e8cbbdea.chunk.js.map",
-    "runtime~main.js": "/deply-me/static/js/runtime~main.12abac1d.js",
-    "runtime~main.js.map": "/deply-me/static/js/runtime~main.12abac1d.js.map",
-    "static/js/2.b41502e9.chunk.js": "/deply-me/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/deply-me/static/js/2.b41502e9.chunk.js.map",
-    "index.html": "/deply-me/index.html",
-    "precache-manifest.927d3954706d1577b685c4a6c8219593.js": "/deply-me/precache-manifest.927d3954706d1577b685c4a6c8219593.js",
-    "service-worker.js": "/deply-me/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/deply-me/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/deply-me/static/media/logo.5d5d9eef.svg"
+    "main.css": "/deploy-me/static/css/main.2cce8147.chunk.css",
+    "main.js": "/deploy-me/static/js/main.1852f7f9.chunk.js",
+    "main.js.map": "/deploy-me/static/js/main.1852f7f9.chunk.js.map",
+    "runtime~main.js": "/deploy-me/static/js/runtime~main.a7dea211.js",
+    "runtime~main.js.map": "/deploy-me/static/js/runtime~main.a7dea211.js.map",
+    "static/js/2.b41502e9.chunk.js": "/deploy-me/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/deploy-me/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/deploy-me/index.html",
+    "precache-manifest.4f896544c0353e3e7b3e9840c6c412f6.js": "/deploy-me/precache-manifest.4f896544c0353e3e7b3e9840c6c412f6.js",
+    "service-worker.js": "/deploy-me/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/deploy-me/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/deploy-me/static/media/logo.5d5d9eef.svg"
   }
 }
